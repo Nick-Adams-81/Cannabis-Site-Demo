@@ -1,0 +1,34 @@
+
+h1 {
+    color: rgb(194, 194, 80);
+    text-decoration: underline;
+    font-family: fantasy;
+    font-weight: 900;
+    font-size: 50px;
+    margin-top: 3%;
+    transform: skewX(-30deg);
+    float: left;
+    margin-left: 25px;
+}
+p{
+    color: rgb(194, 194, 80);
+    transform: skewX(-20deg);
+    margin-left: 25px;
+    padding-bottom: 20px;
+
+}
+.jumbotron {
+    width: 100%;
+    background-color: black;
+    background-image: url('https://image.shutterstock.com/image-photo/marijuana-leaves-cannabis-plants-beautiful-260nw-1384282265.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    z-index: 1;
+    margin-top: 5.2%;
+    
+   
+}
+.hook {
+   
+    margin-top: 200px;
+}

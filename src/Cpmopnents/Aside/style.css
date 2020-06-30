@@ -1,0 +1,38 @@
+.content {
+    position: sticky;
+    left: 0;
+    padding-top: 15%;
+    height: 500px;
+    max-width: 30%;
+    background-color: black;
+}
+
+.box-2 {
+    
+    max-width: 30%;;
+    font-size: 25px;
+    margin-left: 25px;
+}
+.box-3 {
+  
+    max-width: 30%;
+    margin-top: 15px;
+    font-size: 25px;
+    margin-left: 25px;
+}
+.box-4 {
+    margin-top: 15px;
+    font-size: 25px;
+    margin-left: 25px;
+    max-width: 30%;
+}
+.box-5 {
+    margin-top: 15px;
+    font-size: 25px;
+    margin-left: 25px;
+    max-width: 30%;
+}
+a{
+    color: rgb(7, 162, 162);
+   
+}

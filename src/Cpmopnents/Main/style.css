@@ -1,0 +1,17 @@
+.main {
+    float: left;
+}
+h3{
+    text-align: center;
+    
+}
+.line-1 {
+    display: inline-block;
+    
+}
+.line-2 {
+    display: inline-block;
+}
+.line-3{
+    display: inline-block;
+}
