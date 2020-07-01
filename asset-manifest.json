@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Cannabis-Site-Demo/static/css/main.023e9aea.chunk.css",
-    "main.js": "/Cannabis-Site-Demo/static/js/main.a9853446.chunk.js",
-    "main.js.map": "/Cannabis-Site-Demo/static/js/main.a9853446.chunk.js.map",
+    "main.css": "/Cannabis-Site-Demo/static/css/main.a59f0371.chunk.css",
+    "main.js": "/Cannabis-Site-Demo/static/js/main.c794e230.chunk.js",
+    "main.js.map": "/Cannabis-Site-Demo/static/js/main.c794e230.chunk.js.map",
     "runtime-main.js": "/Cannabis-Site-Demo/static/js/runtime-main.ca53effa.js",
     "runtime-main.js.map": "/Cannabis-Site-Demo/static/js/runtime-main.ca53effa.js.map",
     "static/js/2.43615bc0.chunk.js": "/Cannabis-Site-Demo/static/js/2.43615bc0.chunk.js",
     "static/js/2.43615bc0.chunk.js.map": "/Cannabis-Site-Demo/static/js/2.43615bc0.chunk.js.map",
     "index.html": "/Cannabis-Site-Demo/index.html",
-    "precache-manifest.18a3ec2d60792501c41e91f0301e2f66.js": "/Cannabis-Site-Demo/precache-manifest.18a3ec2d60792501c41e91f0301e2f66.js",
+    "precache-manifest.d97b077f2f9bd5daabf2d298ffffbd8f.js": "/Cannabis-Site-Demo/precache-manifest.d97b077f2f9bd5daabf2d298ffffbd8f.js",
     "service-worker.js": "/Cannabis-Site-Demo/service-worker.js",
-    "static/css/main.023e9aea.chunk.css.map": "/Cannabis-Site-Demo/static/css/main.023e9aea.chunk.css.map",
+    "static/css/main.a59f0371.chunk.css.map": "/Cannabis-Site-Demo/static/css/main.a59f0371.chunk.css.map",
     "static/js/2.43615bc0.chunk.js.LICENSE.txt": "/Cannabis-Site-Demo/static/js/2.43615bc0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ca53effa.js",
     "static/js/2.43615bc0.chunk.js",
-    "static/css/main.023e9aea.chunk.css",
-    "static/js/main.a9853446.chunk.js"
+    "static/css/main.a59f0371.chunk.css",
+    "static/js/main.c794e230.chunk.js"
   ]
 }
