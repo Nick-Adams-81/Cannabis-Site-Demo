@@ -46,11 +46,8 @@ export default function SpacingGrid() {
               <Main />
             </Grid>
             <Grid  item>
-           
             </Grid>
-         
         </Grid>
-      
       </Grid>
       <Footer />
     </Grid>

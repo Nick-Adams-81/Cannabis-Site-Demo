@@ -71,7 +71,7 @@ const useStyles = makeStyles((theme) => ({
     transition: theme.transitions.create('margin', {
       easing: theme.transitions.easing.sharp,
       duration: theme.transitions.duration.leavingScreen,
-      backgroundColor: 'pink'
+    
     }),
     marginLeft: -drawerWidth,
   },
@@ -117,7 +117,7 @@ export default function PersistentDrawerLeft() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap>
-            Weed
+            Products
           </Typography>
         </Toolbar>
       </AppBar>
@@ -162,6 +162,7 @@ export default function PersistentDrawerLeft() {
         <Typography paragraph>
          <MainContent />
         </Typography>
+        <Divider />
         <Typography paragraph>
          <TopBrands />
         </Typography>
