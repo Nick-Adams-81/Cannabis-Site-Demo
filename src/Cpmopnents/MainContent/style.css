@@ -2,10 +2,10 @@ h2 {
     color: rgb(194, 194, 80);
     text-align: center;
     text-decoration: underline;
-    transform: skew(-10deg);
+    transform: skew(-20deg);
 }
 .img-1 {
-    margin-left: 20%;
+    margin-left: 27%;
     display: inline-block;
 }
 
