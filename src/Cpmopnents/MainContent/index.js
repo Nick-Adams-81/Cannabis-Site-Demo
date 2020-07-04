@@ -4,7 +4,7 @@ import './style.css'
 
 function MainContent() {
     return (
-        <div className="main">
+        <div className="main-content">
             <h2>Best Sellers</h2>
             <div className="img-1">
             <img src="https://www.growweedeasy.com/wp-content/uploads/2016/11/pretty-cannabis-bud-nug.jpg" height='140' width='140'></img>

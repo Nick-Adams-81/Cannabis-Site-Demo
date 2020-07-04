@@ -19,7 +19,7 @@ const useStyles = makeStyles((theme) => ({
   paper: {
     height: 140,
     width: 100,
-   
+
   },
   control: {
     padding: theme.spacing(2),
@@ -36,17 +36,13 @@ export default function SpacingGrid() {
 
   return (
     <Grid container className={classes.root} >
+      <Jumbotron />
       <Grid item xs={12} className="main">
-        
-        <Jumbotron />
-       
-        <Grid container > 
-           
-            <Grid  item>
-              <Main />
-            </Grid>
-            <Grid  item>
-            </Grid>
+        <Grid container >
+
+          <Grid item xs={12}>
+            <Main />
+          </Grid>
         </Grid>
       </Grid>
       <Footer />
@@ -54,4 +50,4 @@ export default function SpacingGrid() {
   );
 }
 
-   
+

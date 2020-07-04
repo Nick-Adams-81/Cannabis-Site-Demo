@@ -18,13 +18,16 @@ p{
 
 }
 .jumbotron {
-    width: 100%;
+    width: 100vw;
+    height: 35%;
     background-color: black;
     background-image: url('https://image.shutterstock.com/image-photo/marijuana-leaves-cannabis-plants-beautiful-260nw-1384282265.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     z-index: 1;
     margin-top: 5.2%;
+    position: relative;
+    z-index: 4;
     
    
 }

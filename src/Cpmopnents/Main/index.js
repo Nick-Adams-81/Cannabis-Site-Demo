@@ -15,7 +15,6 @@ import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
-import InboxIcon from '@material-ui/icons/MoveToInbox';
 import MailIcon from '@material-ui/icons/Mail';
 import LocalFloristIcon from '@material-ui/icons/LocalFlorist';
 import FilterVintageIcon from '@material-ui/icons/FilterVintage';
@@ -55,7 +54,7 @@ const useStyles = makeStyles((theme) => ({
   },
   drawerPaper: {
     width: drawerWidth,
-    
+
   },
   drawerHeader: {
     display: 'flex',
@@ -71,7 +70,7 @@ const useStyles = makeStyles((theme) => ({
     transition: theme.transitions.create('margin', {
       easing: theme.transitions.easing.sharp,
       duration: theme.transitions.duration.leavingScreen,
-    
+
     }),
     marginLeft: -drawerWidth,
   },
@@ -159,13 +158,9 @@ export default function PersistentDrawerLeft() {
         })}
       >
         <div className={classes.drawerHeader} />
-        <Typography paragraph>
-         <MainContent />
-        </Typography>
+          <MainContent />
         <Divider />
-        <Typography paragraph>
-         <TopBrands />
-        </Typography>
+          <TopBrands />
       </main>
     </div>
   );
