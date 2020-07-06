@@ -7,7 +7,7 @@ import Indica from '../src/Cpmopnents/Pages/Indica'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Indica />
   </React.StrictMode>,
   document.getElementById('root')
 );
