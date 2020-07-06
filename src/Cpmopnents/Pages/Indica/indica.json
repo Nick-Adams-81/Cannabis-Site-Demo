@@ -2,7 +2,13 @@
     {
         "id": 1,
         "image": "https://s3.r29static.com/bin/entry/835/x/1422771/image.jpg",
-        "name": "indica",
-        "price": 30
+        "name": "ice",
+        "price": "30$"
+    },
+    {
+        "id": 2,
+        "image": "https://www.royalqueenseeds.com/119-2029-thickbox/northern-light.jpg",
+        "name": "Northern Light",
+        "price": "50$"
     }
 ]

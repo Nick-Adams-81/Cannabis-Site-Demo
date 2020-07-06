@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-//import App from './App';
+import App from './App';
 import * as serviceWorker from './serviceWorker';
 import Indica from '../src/Cpmopnents/Pages/Indica'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Indica />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );

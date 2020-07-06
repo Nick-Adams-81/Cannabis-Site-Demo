@@ -1,13 +1,26 @@
 .img-container {
-    margin-left: 70px;
+    margin-left: 25%;
+    padding-top: 15px;
     align-items: center;
 }
 h5 {
-    color: chocolate;
+    text-align: center;
    font-size: 20px;
-   text-align: center;
+  
 }
 p {
-    color: chocolate;
+   
     text-align: center;
+}
+.item-card {
+    border: 2px solid black;
+    width: 30%;
+    height: 15%;
+    display: inline-block;
+    margin-left: 15px;
+}
+.check-box {
+    align-items: center;
+    margin-left: 43%;
+    
 }

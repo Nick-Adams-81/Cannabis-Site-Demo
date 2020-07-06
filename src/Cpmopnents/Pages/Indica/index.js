@@ -16,6 +16,12 @@ function Indica () {
                     name={indica[0].name}
                     price={indica[0].price}
                     />
+                    <ItemCard
+                    id={indica[1].id}
+                    image={indica[1].image}
+                    name={indica[1].name}
+                    price={indica[1].price}
+                    />
                 </div>
             </div>
         </div>
