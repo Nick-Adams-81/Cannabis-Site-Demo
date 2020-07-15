@@ -20,7 +20,8 @@ import LocalFloristIcon from '@material-ui/icons/LocalFlorist';
 import FilterVintageIcon from '@material-ui/icons/FilterVintage';
 import PetsIcon from '@material-ui/icons/Pets';
 import MainContent from '../MainContent';
-import TopBrands from '../TopBrands'
+import TopBrands from '../TopBrands';
+import Indica from '../Pages/Indica'
 
 const drawerWidth = 240;
 

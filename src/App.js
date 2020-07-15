@@ -9,7 +9,8 @@ import Paper from '@material-ui/core/Paper';
 import Jumbotron from './Cpmopnents/Jumbotron';
 import Main from './Cpmopnents/Main';
 import Footer from './Cpmopnents/Footer';
-import Wrapper from '../src/Cpmopnents/Wrapper'
+import Wrapper from '../src/Cpmopnents/Wrapper';
+import Indica from '../src/Cpmopnents/Pages/Indica'
 
 
 const useStyles = makeStyles((theme) => ({
