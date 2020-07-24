@@ -10,7 +10,9 @@ import Jumbotron from './Cpmopnents/Jumbotron';
 import Main from './Cpmopnents/Main';
 import Footer from './Cpmopnents/Footer';
 import Wrapper from '../src/Cpmopnents/Wrapper';
-import Indica from '../src/Cpmopnents/Pages/Indica'
+import MainContent from './Cpmopnents/MainContent';
+import Navbar from '../src/Cpmopnents/Navbar';
+
 
 
 const useStyles = makeStyles((theme) => ({
@@ -37,12 +39,13 @@ export default function SpacingGrid() {
 
   return (
     <Grid container className={classes.root} >
+     
       <Jumbotron />
       <Grid item xs={12} className="main">
         <Grid container >
 
           <Grid item xs={12}>
-            <Main />
+            <MainContent />
           </Grid>
         </Grid>
       </Grid>
